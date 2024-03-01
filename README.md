@@ -1,4 +1,10 @@
-![Typing](typing.svg)
+<p align="center">
+  <img align="center" alt="name" src="name.svg"/>
+<p/>
+
+<p align="right">
+  <img alt="developer" src="typing.svg"/>
+<p/>
 
 ![Experience](experience.svg)
 

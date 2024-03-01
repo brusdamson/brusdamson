@@ -14,7 +14,7 @@
                             <!-- Single line -->
                                 <animate id="d0" attributeName="d" begin="0s" dur="6000ms" fill="freeze" values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h435" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
                     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F7A724" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F7A304" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
         <textPath xlink:href="#path0">
             Ivan Egorov
         </textPath>

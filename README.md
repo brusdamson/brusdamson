@@ -25,9 +25,8 @@
 
 ### Contact me:
 
-[<img align="left" alt="Telegram" width="50px" src="https://img.icons8.com/?size=512&id=l7PLniR__Vsn&format=png"/>](https://t.me/brusdamson)
+[<img align="left" alt="Telegram" width="50px" src="https://img.icons8.com/?size=512&id=l7PLniR__Vsn&format=png"/>](https://t.me/dngdryde)
 [<img align="left" alt="Discord" width="50px" src="https://img.icons8.com/?size=512&id=zdrZ4QdvVaBZ&format=png"/>](https://discordapp.com/users/344885414886113280)
-[<img align="left" alt="VK" width="50px" src="https://img.icons8.com/?size=512&id=isk6POTtuEAp&format=png"/>](https://vk.com/dngdryde)
 
 <br/>
 <br/>
